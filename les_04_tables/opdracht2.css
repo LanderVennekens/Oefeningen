@@ -1,0 +1,13 @@
+table{
+    border: solid red 2px;
+    border-collapse: collapse;
+    
+}
+tr{
+    border: solid red 2px;
+}
+
+td{
+    border: solid red 2px;
+    padding: 25px;
+}

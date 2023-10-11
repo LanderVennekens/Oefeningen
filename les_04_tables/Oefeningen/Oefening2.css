@@ -1,0 +1,27 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#opmaaktabel{
+    border: 1px;
+    border-collapse: collapse;
+    border-color: darkblue;
+}
+.firstrow>th{
+    border: 1px;
+    border-color: black;
+    background-color: orange;
+    height: 50px;
+    color: white;
+}
+
+th, tr, td{
+    border: 1px solid;
+    border-color: black;
+    height: 50px;
+}
+.donkerblauw{
+    background-color: darkblue;
+    color: white;
+    width: 75px;
+    text-align: center;
+}

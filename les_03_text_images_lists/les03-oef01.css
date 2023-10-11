@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14;
+    color: #082433;
+}
+
+.opmaaklogotm{
+    width: 200px;
+}
+
+.opmaakhr {
+    height: 1px;
+    background-color: #082433;
+
+}
+h1 {
+    margin: 0px;
+    padding: 0px;
+    font-size: 2em;
+    color: #EB6338;
+}
+
+p {
+    margin: 0px;
+    padding: 15px;
+    color: #082433;
+}
+
+a {
+    color: #082433;
+    text-decoration-line: underline;
+}
+
+.opmaakdiv {
+    height: 80px;
+    padding: 10px;
+    background-color: #082433;
+
+}
+.opmaakdivlogotm {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+}

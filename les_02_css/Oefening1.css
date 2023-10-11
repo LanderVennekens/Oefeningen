@@ -23,5 +23,5 @@ p {
 }
 .lijntje {
     font-weight: 700;
-    
+    text-decoration-line: underline;
 }
